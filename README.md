@@ -153,6 +153,8 @@ in production) (Y/n) y
 
 ```
 
+- chunk-vendors.js  >> 빌드시 외부플러그인 코드가 들어간다.
+
 ## Project setup
 
 ```
