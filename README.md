@@ -2,7 +2,7 @@
 
 ## basic setup
 
--   버전확인
+-   버전확인testestsetstset
 
 ```
 vue --version
