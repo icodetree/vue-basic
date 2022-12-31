@@ -1,9 +1,22 @@
 # vue-basic
 
-## Project setup
+## 버전확인
+
 ```
-npm install
+vue --version
 ```
+
+## vue 설치
+
+```
+// window
+npm install -g vue
+
+// macOS
+sudo npm install -g vue
+```
+
+
 
 ### Compiles and hot-reloads for development
 ```
