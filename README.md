@@ -17,6 +17,14 @@ sudo npm install -g vue
 ```
 
 
+## 확장프로그램 설치 Vetur (스니펫, 하일라이트, 포맷팅 )
+
+```
+Vscode @extension  >>  Vetur 
+(maker : Pine Wu)
+```
+
+
 
 ### Compiles and hot-reloads for development
 ```
