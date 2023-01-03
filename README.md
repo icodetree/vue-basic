@@ -25,6 +25,19 @@ Vscode @extension  >>  Vetur
 ```
 
 
+## Vue 프로젝트 생성
+- 우선 생성할 폴더로 경로를 변경해준다.
+
+```
+vue create [폴더명]
+
+// 생성옵션 선택
+>> Default ([Vue3] babel, eslint)
+   Default ([Vue2] babel, eslint)
+   Manually select features
+```
+
+
 
 ### Compiles and hot-reloads for development
 ```
