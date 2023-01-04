@@ -38,6 +38,18 @@ vue create [폴더명]
 ```
 
 
+## 생성된 프로젝트 폴더로 이동하여 서버시작해보기
+
+```
+cd project01
+npm run serve
+
+// 8080 을 사용중이면 자동으로 8081로 설정된다.
+App running at:
+  - Local:   http://localhost:8081/
+  - Network: http://192.168.21.151:8081/
+```
+
 
 ### Compiles and hot-reloads for development
 ```
