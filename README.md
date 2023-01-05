@@ -50,6 +50,23 @@ App running at:
   - Network: http://192.168.21.151:8081/
 ```
 
+## Manually select features 선택시 spacebar 로 선택
+
+```
+Vue CLI v5.0.8
+? Please pick a preset: Manually select features
+? Check the features needed for your project: (Press <space> to select, <a> to
+toggle all, <i> to invert selection, and <enter> to proceed)
+ ◉ Babel
+ ◯ TypeScript
+ ◯ Progressive Web App (PWA) Support
+ ◉ Router
+ ◉ Vuex
+ ◯ CSS Pre-processors
+❯◉ Linter / Formatter
+ ◯ Unit Testing
+ ◯ E2E Testing
+```
 
 ### Compiles and hot-reloads for development
 ```
