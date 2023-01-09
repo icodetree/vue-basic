@@ -68,6 +68,18 @@ toggle all, <i> to invert selection, and <enter> to proceed)
  ◯ E2E Testing
 ```
 
+## 원하는 버전 선택
+
+```
+Vue CLI v5.0.8
+? Please pick a preset: Manually select features
+? Check the features needed for your project: Babel, Router, Vuex, Linter
+? Choose a version of Vue.js that you want to start the project with (Use arrow
+keys)
+❯ 3.x
+  2.x
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
