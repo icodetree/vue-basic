@@ -91,6 +91,18 @@ Vue CLI v5.0.8
 in production) (Y/n) y
 ```
 
+
+## ESLint 선택 + 코딩컨벤션 선택 (standard)
+
+```
+? Pick a linter / formatter config:
+  ESLint with error prevention only
+  ESLint + Airbnb config
+❯ ESLint + Standard config
+  ESLint + Prettier
+```
+
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
