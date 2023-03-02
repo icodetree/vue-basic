@@ -2,8 +2,8 @@
   <nav>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
-    <!-- <router-link to="/databinding">Data</router-link> | -->
-    <!-- <router-link to="/html">Html</router-link> -->
+    <router-link to="/databinding">Data</router-link> |
+    <router-link to="/html">Html</router-link>
   </nav>
   <router-view />
 </template>
